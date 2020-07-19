@@ -2,7 +2,7 @@
 Navegação em Tabs com JS | Code/Drops #41 - Rocketseat 
 
 
-Para fins de estudos utilizando apenas HTML, CSS e JS para cria uma navegação em tabs.
+Para fins de estudos utilizando apenas HTML, CSS e JS para criar uma navegação em tabs.
 Acompanhando o Code/Drops #41 da RocketSeat - Mayk Brito 
 
 Objetivo: Exercício de Fixação de conceitos da tríade web dev (HTML, CSS e JS)
